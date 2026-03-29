@@ -128,5 +128,5 @@ MIT License
 
 ---
 
-© 2025 Abdulwahab Hamoud Salah — All Rights Reserved  
+© 2025-2026 Abdulwahab Hamoud Salah — All Rights Reserved  
 This project was designed and built by **Abdulwahab Hamoud Salah** as part of his cybersecurity portfolio.
